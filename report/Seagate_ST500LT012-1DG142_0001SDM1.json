@@ -1,7 +1,7 @@
 {
   "report": {
     "title": "HD Specs - SMART Report",
-    "generated": "2026-09-16 19:38:57",
+    "generated": "2026-09-16 19:41:07",
     "host": "ACER-PC"
   },
   "device": {
@@ -39,7 +39,7 @@
       "type": "Pre-fail",
       "updated": "Always",
       "whenFailed": "-",
-      "rawValue": "139066448"
+      "rawValue": "140512080"
     },
     {
       "id": 3,
@@ -83,7 +83,7 @@
       "type": "Pre-fail",
       "updated": "Always",
       "whenFailed": "-",
-      "rawValue": "455356276974"
+      "rawValue": "455356278670"
     },
     {
       "id": 9,
@@ -94,7 +94,7 @@
       "type": "Old_age",
       "updated": "Always",
       "whenFailed": "-",
-      "rawValue": "5267 (157 132 0)"
+      "rawValue": "5267 (154 111 0)"
     },
     {
       "id": 10,
@@ -259,7 +259,7 @@
       "type": "Old_age",
       "updated": "Offline",
       "whenFailed": "-",
-      "rawValue": "2902 (187 254 0)"
+      "rawValue": "2902 (184 233 0)"
     },
     {
       "id": 241,
@@ -270,7 +270,7 @@
       "type": "Old_age",
       "updated": "Offline",
       "whenFailed": "-",
-      "rawValue": "13010834124"
+      "rawValue": "13010877023"
     },
     {
       "id": 242,
@@ -281,7 +281,7 @@
       "type": "Old_age",
       "updated": "Offline",
       "whenFailed": "-",
-      "rawValue": "23082497428"
+      "rawValue": "23082823553"
     },
     {
       "id": 254,
