@@ -1,0 +1,15 @@
+{
+  "device": {
+    "vendor": "HGST",
+    "model": "HGST HTS545050B7E660",
+    "serial": "WX81EB756PN3",
+    "firmware": "02.01H02",
+    "capacity": "500 GB",
+    "rotationRate": "5400 rpm",
+    "formFactor": "2.5 inches",
+    "ataVersion": "ACS-3 T13/2161-D revision 5",
+    "sataVersion": "SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)",
+    "deviceType": "SATA",
+    "smartSupport": "Available - device has SMART capability."
+  }
+}
