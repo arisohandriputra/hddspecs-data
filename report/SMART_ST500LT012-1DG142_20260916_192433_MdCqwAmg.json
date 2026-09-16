@@ -1,0 +1,298 @@
+{
+  "report": {
+    "title": "HD Specs - SMART Report",
+    "generated": "2026-09-16 19:24:33",
+    "host": "ACER-PC"
+  },
+  "device": {
+    "vendor": "Seagate",
+    "model": "ST500LT012-1DG142",
+    "serial": "S3PSMJV8",
+    "firmware": "0001SDM1",
+    "capacity": "500 GB",
+    "rotationRate": "5400 rpm",
+    "formFactor": "2.5 inches",
+    "sectorSize": "bytes",
+    "ataVersion": "ATA8-ACS T13/1699-D revision 4",
+    "sataVersion": "SATA 3.0, 6.0 Gb/s (current: 3.0 Gb/s)",
+    "deviceType": "SATA",
+    "smartSupport": "Available - device has SMART capability."
+  },
+  "health": {
+    "status": "",
+    "rating": "WARNING",
+    "score": 70,
+    "temperature": "42 C",
+    "powerOnHours": "5266",
+    "powerCycleCount": "3554",
+    "reallocatedSectors": "56",
+    "pendingSectors": "0",
+    "uncorrectable": "0"
+  },
+  "attributes": [
+    {
+      "id": 1,
+      "name": "Raw_Read_Error_Rate",
+      "value": 117,
+      "worst": 91,
+      "threshold": 6,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "135621240"
+    },
+    {
+      "id": 3,
+      "name": "Spin_Up_Time",
+      "value": 99,
+      "worst": 99,
+      "threshold": 0,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 4,
+      "name": "Start_Stop_Count",
+      "value": 96,
+      "worst": 96,
+      "threshold": 20,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "4378"
+    },
+    {
+      "id": 5,
+      "name": "Reallocated_Sector_Ct",
+      "value": 100,
+      "worst": 100,
+      "threshold": 36,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "56"
+    },
+    {
+      "id": 7,
+      "name": "Seek_Error_Rate",
+      "value": 59,
+      "worst": 55,
+      "threshold": 30,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "455356268785"
+    },
+    {
+      "id": 9,
+      "name": "Power_On_Hours",
+      "value": 94,
+      "worst": 94,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "5266 (91 246 0)"
+    },
+    {
+      "id": 10,
+      "name": "Spin_Retry_Count",
+      "value": 100,
+      "worst": 100,
+      "threshold": 97,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 12,
+      "name": "Power_Cycle_Count",
+      "value": 97,
+      "worst": 97,
+      "threshold": 20,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "3554"
+    },
+    {
+      "id": 184,
+      "name": "End-to-End_Error",
+      "value": 100,
+      "worst": 100,
+      "threshold": 99,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 187,
+      "name": "Reported_Uncorrect",
+      "value": 18,
+      "worst": 18,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "82"
+    },
+    {
+      "id": 188,
+      "name": "Command_Timeout",
+      "value": 100,
+      "worst": 97,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "81605689371"
+    },
+    {
+      "id": 189,
+      "name": "High_Fly_Writes",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 190,
+      "name": "Airflow_Temperature_Cel",
+      "value": 58,
+      "worst": 50,
+      "threshold": 45,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "42 (Min/Max 28/47)"
+    },
+    {
+      "id": 191,
+      "name": "G-Sense_Error_Rate",
+      "value": 97,
+      "worst": 97,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "6117"
+    },
+    {
+      "id": 192,
+      "name": "Power-Off_Retract_Count",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "113"
+    },
+    {
+      "id": 193,
+      "name": "Load_Cycle_Count",
+      "value": 63,
+      "worst": 63,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "75917"
+    },
+    {
+      "id": 194,
+      "name": "Temperature_Celsius",
+      "value": 42,
+      "worst": 50,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "42 (0 15 0 0 0)"
+    },
+    {
+      "id": 197,
+      "name": "Current_Pending_Sector",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 198,
+      "name": "Offline_Uncorrectable",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Offline",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 199,
+      "name": "UDMA_CRC_Error_Count",
+      "value": 200,
+      "worst": 200,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 240,
+      "name": "Head_Flying_Hours",
+      "value": 97,
+      "worst": 97,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Offline",
+      "whenFailed": "-",
+      "rawValue": "2902 (139 240 0)"
+    },
+    {
+      "id": 241,
+      "name": "Total_LBAs_Written",
+      "value": 100,
+      "worst": 253,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Offline",
+      "whenFailed": "-",
+      "rawValue": "13010440746"
+    },
+    {
+      "id": 242,
+      "name": "Total_LBAs_Read",
+      "value": 100,
+      "worst": 253,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Offline",
+      "whenFailed": "-",
+      "rawValue": "23081993401"
+    },
+    {
+      "id": 254,
+      "name": "Free_Fall_Sensor",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    }
+  ]
+}
