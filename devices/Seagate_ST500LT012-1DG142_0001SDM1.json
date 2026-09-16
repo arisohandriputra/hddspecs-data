@@ -7,7 +7,6 @@
     "capacity": "500 GB",
     "rotationRate": "5400 rpm",
     "formFactor": "2.5 inches",
-    "sectorSize": "bytes",
     "ataVersion": "ATA8-ACS T13/1699-D revision 4",
     "sataVersion": "SATA 3.0, 6.0 Gb/s (current: 3.0 Gb/s)",
     "deviceType": "SATA",
