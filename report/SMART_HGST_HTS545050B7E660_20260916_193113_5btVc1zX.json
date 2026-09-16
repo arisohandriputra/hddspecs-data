@@ -1,0 +1,232 @@
+{
+  "report": {
+    "title": "HD Specs - SMART Report",
+    "generated": "2026-09-16 19:31:13",
+    "host": "ACER-PC"
+  },
+  "device": {
+    "vendor": "HGST",
+    "model": "HGST HTS545050B7E660",
+    "serial": "WX81EB756PN3",
+    "firmware": "02.01H02",
+    "capacity": "500 GB",
+    "rotationRate": "5400 rpm",
+    "formFactor": "2.5 inches",
+    "sectorSize": "bytes",
+    "ataVersion": "ACS-3 T13/2161-D revision 5",
+    "sataVersion": "SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)",
+    "deviceType": "SATA",
+    "smartSupport": "Available - device has SMART capability."
+  },
+  "health": {
+    "status": "",
+    "rating": "GOOD",
+    "score": 100,
+    "temperature": "30 C",
+    "powerOnHours": "306",
+    "powerCycleCount": "408",
+    "reallocatedSectors": "0",
+    "pendingSectors": "0",
+    "uncorrectable": "0"
+  },
+  "attributes": [
+    {
+      "id": 1,
+      "name": "Raw_Read_Error_Rate",
+      "value": 200,
+      "worst": 200,
+      "threshold": 51,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 3,
+      "name": "Spin_Up_Time",
+      "value": 154,
+      "worst": 144,
+      "threshold": 21,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "1275"
+    },
+    {
+      "id": 4,
+      "name": "Start_Stop_Count",
+      "value": 98,
+      "worst": 98,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "2322"
+    },
+    {
+      "id": 5,
+      "name": "Reallocated_Sector_Ct",
+      "value": 200,
+      "worst": 200,
+      "threshold": 140,
+      "type": "Pre-fail",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 7,
+      "name": "Seek_Error_Rate",
+      "value": 100,
+      "worst": 253,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 9,
+      "name": "Power_On_Hours",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "306"
+    },
+    {
+      "id": 10,
+      "name": "Spin_Retry_Count",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 11,
+      "name": "Calibration_Retry_Count",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 12,
+      "name": "Power_Cycle_Count",
+      "value": 100,
+      "worst": 100,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "408"
+    },
+    {
+      "id": 191,
+      "name": "G-Sense_Error_Rate",
+      "value": 1,
+      "worst": 1,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "145"
+    },
+    {
+      "id": 192,
+      "name": "Power-Off_Retract_Count",
+      "value": 200,
+      "worst": 200,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "129"
+    },
+    {
+      "id": 193,
+      "name": "Load_Cycle_Count",
+      "value": 197,
+      "worst": 197,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "10720"
+    },
+    {
+      "id": 194,
+      "name": "Temperature_Celsius",
+      "value": 113,
+      "worst": 95,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "30"
+    },
+    {
+      "id": 196,
+      "name": "Reallocated_Event_Count",
+      "value": 200,
+      "worst": 200,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 197,
+      "name": "Current_Pending_Sector",
+      "value": 200,
+      "worst": 200,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 198,
+      "name": "Offline_Uncorrectable",
+      "value": 100,
+      "worst": 253,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Offline",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 199,
+      "name": "UDMA_CRC_Error_Count",
+      "value": 200,
+      "worst": 200,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Always",
+      "whenFailed": "-",
+      "rawValue": "0"
+    },
+    {
+      "id": 200,
+      "name": "Multi_Zone_Error_Rate",
+      "value": 100,
+      "worst": 253,
+      "threshold": 0,
+      "type": "Old_age",
+      "updated": "Offline",
+      "whenFailed": "-",
+      "rawValue": "0"
+    }
+  ]
+}
