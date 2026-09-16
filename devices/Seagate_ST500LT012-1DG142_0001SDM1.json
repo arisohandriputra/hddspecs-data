@@ -1,0 +1,16 @@
+{
+  "device": {
+    "vendor": "Seagate",
+    "model": "ST500LT012-1DG142",
+    "serial": "S3PSMJV8",
+    "firmware": "0001SDM1",
+    "capacity": "500 GB",
+    "rotationRate": "5400 rpm",
+    "formFactor": "2.5 inches",
+    "sectorSize": "bytes",
+    "ataVersion": "ATA8-ACS T13/1699-D revision 4",
+    "sataVersion": "SATA 3.0, 6.0 Gb/s (current: 3.0 Gb/s)",
+    "deviceType": "SATA",
+    "smartSupport": "Available - device has SMART capability."
+  }
+}
