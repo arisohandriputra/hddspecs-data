@@ -1,0 +1,15 @@
+{
+  "device": {
+    "vendor": "Hitachi/HGST Z7K500",
+    "model": "HGST HTS725050A7E630",
+    "serial": "TF0501WJ24BPJZ",
+    "firmware": "GH2OA420",
+    "capacity": "500 GB",
+    "rotationRate": "7200 rpm",
+    "formFactor": "2.5 inches",
+    "ataVersion": "ATA8-ACS T13/1699-D revision 6",
+    "sataVersion": "SATA 2.6, 6.0 Gb/s (current: 3.0 Gb/s)",
+    "deviceType": "SATA",
+    "smartSupport": "Available - device has SMART capability."
+  }
+}
