@@ -1,0 +1,15 @@
+{
+  "device": {
+    "vendor": "Western Digital",
+    "model": "WDC WD2500BEVS-08VAT2",
+    "serial": "WD-WX60AA9Y7428",
+    "firmware": "14.01A14",
+    "capacity": "250 GB",
+    "rotationRate": "5400 rpm",
+    "formFactor": "",
+    "ataVersion": "ATA8-ACS (minor revision not indicated)",
+    "sataVersion": "SATA 2.5, 1.5 Gb/s",
+    "deviceType": "SATA",
+    "smartSupport": "Available - device has SMART capability."
+  }
+}
